@@ -11,7 +11,7 @@ layout: feed
 	<id>http://ISKersten.github.io/blog</id>
 	<author>
 		<name>Isabel Kersten</name>
-		<email>isabel@email.com/email>
+		<email>isabel@email.com</email>
 	</author>
 
 	{% for post in site.posts %}
